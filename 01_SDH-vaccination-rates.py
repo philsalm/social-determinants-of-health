@@ -317,6 +317,6 @@ px.bar(_pdf,x='Column',y='Mean(SHAP)')
 # MAGIC ## Recap
 # MAGIC In this notebook we quickly and easily:
 # MAGIC   * Brought in pre-processed data from a varitey of datasources using deltasharing.
-# MAGIC   * We then created a dataset of all SDH alogside vacciantion rates for each county in the US
+# MAGIC   * We then created a dataset of all SDH alongside vaccination rates for each county in the US
 # MAGIC   * Trained a regression model to predict vaccination rates based on SDH and county-level geographic information such as population density and size
 # MAGIC   * We used SHAP to explain the impact of each SDH factor on vaccination rates
